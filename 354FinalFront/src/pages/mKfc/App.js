@@ -1,0 +1,29 @@
+
+//import StyleLink from "./components/style";
+import Menus from "../../components/kfcComponents/Menus";
+import AddMenu from "../../components/kfcComponents/AddMenu";
+import { useState } from 'react';
+
+function App() {
+
+  const [menus] = useState([
+    {
+      ptitle: '',
+      user: '',
+      menu: '',
+      price: '',
+    },
+  ])
+
+  return (
+    <div className='container'>
+      
+      
+      <AddMenu  />
+      <Menus menus={menus} /> 
+
+    </div>
+  );
+}
+
+export default App;

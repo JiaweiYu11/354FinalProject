@@ -1,0 +1,98 @@
+{
+  "mcD": [
+    {
+      "dishName": "Quarter Pounder with Cheese Bacon",
+      "type": "Burger",
+      "desc": "Quarter Pounder with Cheese Bacon$5.79 Each Quarter Pounder with Cheese Bacon burger features thick-cut applewood smoked bacon atop a ¼ lb.* of 100% McDonald's fresh beef that's cooked when you order. It's a hot, deliciously juicy bacon cheeseburger",
+      "price": "5.79",
+      "id": 4,
+      "url": "https://www.bing.com/th?id=AzJH81EBV4VJvrA480x360&w=80&h=80&c=7&rs=1&pid=Local"
+    },
+    {
+      "dishName": "11",
+      "type": "5 - Salad",
+      "desc": "222",
+      "price": "11",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "mc": [
+        {
+          "dishName": "Double Cheeseburger",
+          "type": "Burger",
+          "desc": "Double Cheeseburger$1.69 The McDonald's Double Cheeseburger features two 100% pure beef burger patties seasoned with just a pinch of salt and pepper. It's topped with tangy pickles, chopped onions, ketchup",
+          "price": "1.69",
+          "id": 2,
+          "url": "https://www.bing.com/th?id=A099HTD8pbMhuOw480x360&w=80&h=80&c=7&rs=1&pid=Local"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "mc": [
+        {
+          "dishName": "Cheeseburger",
+          "type": "Burger",
+          "desc": "Cheeseburger$1.00 Our simple, classic cheeseburger begins with a 100% pure beef burger seasoned with just a pinch of salt and pepper. ",
+          "price": "1.00",
+          "id": 3,
+          "url": "https://www.bing.com/th?id=AbwtOgSkREf26NQ480x360&w=80&h=80&c=7&rs=1&pid=Local"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "kfc": [
+    {
+      "dishName": "",
+      "type": "",
+      "desc": "",
+      "price": "",
+      "id": 1
+    },
+    {
+      "dishName": "kfc",
+      "type": "Burger",
+      "desc": "kfc intro",
+      "price": 6,
+      "id": 2
+    }
+  ],
+  "subway": [
+    {
+      "dishName": "subway",
+      "type": "Burger",
+      "desc": "subway intro",
+      "price": "4.96",
+      "id": 1
+    }
+  ],
+  "applebee": [
+    {
+      "dishName": "apple bee",
+      "type": "Snack",
+      "desc": "apple beee intro",
+      "price": "6.66",
+      "id": 1
+    },
+    {
+      "dishName": "apple bee 2",
+      "type": "Snack",
+      "desc": "second apple",
+      "price": "55555",
+      "id": 2
+    },
+    {
+      "dishName": "Diet Coke",
+      "type": "Drink",
+      "desc": "Cool drink",
+      "price": "2.41",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
